@@ -37,7 +37,7 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
-  linkedin: {
+  twitter: {
     title: "Maria Eduarda",
     card: "summary_large_image",
   },
