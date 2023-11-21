@@ -23,7 +23,7 @@ export default function Home() {
           ))}
         </ul>
       </nav>
-      <div className="hidden w-screen h-px animate-glow md:block animate-fade-left bg-gradient-to-r from-blue-300/0 via-blue-300/50 to-blue-300/0" />
+      <div className="hidden w-screen h-px animate-glow md:block " />
       <Particles
         className="absolute inset-0 -z-10 animate-fade-in"
         quantity={100}
@@ -31,7 +31,7 @@ export default function Home() {
       <h1 className="z-10 text-3xl text-transparent duration-1000 bg-white cursor-default text-edge-outline animate-title font-display sm:text-5xl md:text-7xl whitespace-nowrap bg-clip-text">
         Welcome!
       </h1>
-      <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-blue-300/0 via-blue-300/50 to-blue-300/0" />
+      <div className="hidden w-screen h-px animate-glow md:block" />
       <div className="my-16 text-center animate-fade-in"></div>
     </div>
   );
