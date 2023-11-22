@@ -25,7 +25,7 @@ const topics = [
     {
       title: "Education",
       content:
-        "I'm an IT technician and i'm currently studying software engineering.",
+        "I'm an IT technician and I'm currently studying software engineering.",
     },
   ];
   
